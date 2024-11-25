@@ -10,7 +10,7 @@ void func_part1_1() {
 
     // Obtener el valor absoluto utilizando abs()
     int abs_num = abs(num);
-    printf("1) Parte funciones comunes");
+    printf("1) Parte funciones comunes\n");
     printf("El valor absoluto de %d es %d\n", num, abs_num);
 
 }
